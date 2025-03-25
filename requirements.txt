@@ -1,0 +1,8 @@
+The following libraries are required:
+1. Tensorflow Keras
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. OpenCV
+6. Seaborn
+7. Skit-Learn
