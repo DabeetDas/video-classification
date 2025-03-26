@@ -1,8 +1,7 @@
-The following libraries are required:
-1. Tensorflow Keras
-2. Pandas
-3. Numpy
-4. Matplotlib
-5. OpenCV
-6. Seaborn
-7. Skit-Learn
+tensorflow>=2.0
+pandas>=1.0
+numpy>=1.18
+matplotlib>=3.2
+opencv-python>=4.2
+seaborn>=0.10
+scikit-learn>=0.22
